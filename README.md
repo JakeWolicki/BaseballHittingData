@@ -1,4 +1,6 @@
-# BaseballHittingData
+# Baseball Hitting Data
+
+Weighted ranked batting stats based on contact metrics by batting average
 
 Data from Baseball Savant
 
